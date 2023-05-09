@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Tyrannide
-- 👀 I’m interested in physics, dinosaurs, metal music and video-games
-- 🌱 I’m currently learning a degre in technology
-- 💞️ I’m looking to collaborate on any kind of project, maybe more in python or some bash
-- 📫 How to reach me, via gitHub most likely for now
+Hi, I’m @Tyrannide a Master student in computer science following the Data and Connected System (DSC) at Unviersity Jean Monnet. 
 
-<!---
-Tyrannide/Tyrannide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently in an Internship at Astree Software working as a data analyst referencing user's application usage.
