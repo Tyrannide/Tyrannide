@@ -1,3 +1,3 @@
-Hi, I’m @Tyrannide a Master student in computer science following the Data and Connected System (DSC) at Unviersity Jean Monnet. 
+Hi, I’m @Tyrannide, a Master student in computer science following the Data and Connected System (DSC) at University Jean Monnet. 
 
-I'm currently in an Internship at Astree Software working as a data analyst referencing user's application usage.
+I'm currently doing a work-study at Bureau Veritas working as the project chief for the update and upgrade of their software.
